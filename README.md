@@ -1,4 +1,4 @@
-# MD Habibur Rahman Papil — Medical AI Portfolio
+# MD Habibur Rahman Papel — Medical AI Portfolio
 
 This is a responsive static portfolio recreated from the supplied visual reference, using HTML/CSS/JavaScript.
 
