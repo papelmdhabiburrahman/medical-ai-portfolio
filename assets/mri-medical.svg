@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<defs><radialGradient id="m"><stop stop-color="#e6e9e8"/><stop offset=".3" stop-color="#a0a9aa"/><stop offset=".58" stop-color="#4c575c"/><stop offset="1" stop-color="#07121b"/></radialGradient></defs>
+<rect width="800" height="420" fill="#06101a"/>
+<rect x="25" y="25" width="750" height="370" rx="12" fill="#0a1621" stroke="#21405d"/>
+<circle cx="400" cy="210" r="145" fill="url(#m)" stroke="#7f8b8e" stroke-width="4"/>
+<ellipse cx="400" cy="210" rx="100" ry="125" fill="#253039"/>
+<ellipse cx="400" cy="210" rx="73" ry="100" fill="#9da7a8"/>
+<ellipse cx="400" cy="210" rx="45" ry="70" fill="#263239"/>
+<ellipse cx="400" cy="210" rx="17" ry="28" fill="#d5d9d8"/>
+<circle cx="400" cy="210" r="124" fill="none" stroke="#1d9bff" stroke-width="3" opacity=".65"/>
+<path d="M290 210h220M400 100v220" stroke="#1d9bff" opacity=".25"/>
+<text x="45" y="58" fill="#dce8f2" font-family="Arial" font-size="18">BRAIN MRI • MULTI-SLICE VISUALIZATION</text>
+</svg>
