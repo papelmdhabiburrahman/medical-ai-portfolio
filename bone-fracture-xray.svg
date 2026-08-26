@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420">
+<defs>
+ <radialGradient id="bg"><stop stop-color="#8d9698"/><stop offset=".48" stop-color="#465157"/><stop offset="1" stop-color="#07121b"/></radialGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="800" height="420" fill="#06101a"/>
+<rect x="20" y="20" width="760" height="380" rx="12" fill="url(#bg)" stroke="#1e405c"/>
+<g opacity=".9" stroke="#d8e0df" stroke-linecap="round">
+ <path d="M300 65 C275 115 286 157 320 188 C347 213 352 250 334 292 C321 322 328 352 354 370" stroke-width="27"/>
+ <path d="M500 65 C525 115 514 157 480 188 C453 213 448 250 466 292 C479 322 472 352 446 370" stroke-width="27"/>
+ <path d="M332 72 C360 95 382 108 400 110 C418 108 440 95 468 72" stroke-width="19"/>
+ <path d="M320 188 C350 172 370 166 400 166 C430 166 450 172 480 188" stroke-width="18"/>
+ <path d="M334 292 C360 275 380 268 400 268 C420 268 440 275 466 292" stroke-width="18"/>
+</g>
+<g stroke="#27a2ff" fill="none">
+ <rect x="330" y="168" width="140" height="78" rx="5" stroke-width="5"/>
+ <path d="M370 174 l24 58 M430 174 l-24 58" stroke-width="4"/>
+</g>
+<circle cx="400" cy="207" r="44" fill="none" stroke="#1594ff" stroke-width="3" opacity=".35" filter="url(#glow)"/>
+<text x="40" y="55" fill="#dce8f2" font-family="Arial" font-size="18">CHEST / BONE X-RAY • AI ROI</text>
+</svg>
